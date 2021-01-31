@@ -2,7 +2,7 @@
 ! Description: This filter is a comment blocking scripts for the comment on ONLINE NEWS WEBSITES.
 ! Homepage: https://github.com/Pentanium/ABClientFilters
 ! License: https://github.com/Pentanium/ABClientFilters/blob/master/LICENSE
-! Version: 1.01
+! Version: 1.02
 
 ||comments.ntdtv.com^$domain=cn.ntdtv.com
 ||the-sun.com/assets/thesun/images/icon-comment*
@@ -126,6 +126,7 @@
 ||kidd.co.kr/news/*?act=getComment
 ||reportrash.com/reportrash-api/board/*/replies
 ||cdn.tgdaily.co.kr/script/reply.js
+news.v.daum.net##.cmt_news
 cn.ntdtv.com###commentary_block
 reportrash.com###repliesContainer
 kidd.co.kr##.com-tab-bx-list
