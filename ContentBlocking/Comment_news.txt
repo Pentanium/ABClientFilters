@@ -2,7 +2,7 @@
 ! Description: This filter is a comment blocking scripts for the comment on ONLINE NEWS WEBSITES.
 ! Homepage: https://github.com/Pentanium/ABClientFilters
 ! License: https://github.com/Pentanium/ABClientFilters/blob/master/LICENSE
-! Version: 1.02
+! Version: 1.02.01
 
 ||comments.ntdtv.com^$domain=cn.ntdtv.com
 ||the-sun.com/assets/thesun/images/icon-comment*
@@ -168,7 +168,7 @@ etnews.com##.check-wrapper
 dailian.co.kr##.reply
 pressian.com##.comment_wrap
 cnbc.sbs.co.kr##.ae_comment
-namu.news##div[class^="sc-1gwvzpi-15"]
+namu.news##div[class^="sc-1gwvzpi-19"]
 dongascience.donga.com###view_reply_list
 edaily.co.kr##.ly_containner
 edaily.co.kr##p[class="title_ra02"]
