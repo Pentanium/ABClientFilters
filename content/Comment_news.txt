@@ -2,7 +2,7 @@
 ! Description: This filter is a comment blocking scripts for the comment on ONLINE NEWS WEBSITES.
 ! Homepage: https://github.com/Pentanium/ABClientFilters
 ! License: https://github.com/Pentanium/ABClientFilters/blob/master/LICENSE
-! Version: 1.02.02
+! Version: 1.02.03
 
 ||comments.ntdtv.com^$domain=cn.ntdtv.com
 ||the-sun.com/assets/thesun/images/icon-comment
@@ -126,6 +126,8 @@
 ||kidd.co.kr/news/*?act=getComment
 ||reportrash.com/reportrash-api/board/*/replies
 ||cdn.tgdaily.co.kr/script/reply.js
+zdnet.co.kr###comment_box
+zdnet.co.kr###comment_btn
 news.v.daum.net##.cmt_news
 cn.ntdtv.com###commentary_block
 reportrash.com###repliesContainer
@@ -213,8 +215,8 @@ ildaro.com###reader_view_skin4
 ||livere.com^$domain=sedaily.com|yeongnam.com|dtoday.co.kr|munhwa.com|kyeongin.com|daejonilbo.com|news.imaeil.com|knnews.co.kr|sisafocus.co.kr|ohmynews.com|yna.co.kr|spotvnews.co.kr|lawtimes.co.kr|digitaltoday.co.kr|kns.tv
 ||livere.me^$domain=sedaily.com|yeongnam.com|dtoday.co.kr|munhwa.com|kyeongin.com|daejonilbo.com|news.imaeil.com|knnews.co.kr|sisafocus.co.kr|ohmynews.com|yna.co.kr|spotvnews.co.kr|lawtimes.co.kr|digitaltoday.co.kr|kns.tv
 ||livere.co.kr^$domain=sedaily.com|yeongnam.com|dtoday.co.kr|munhwa.com|kyeongin.com|daejonilbo.com|news.imaeil.com|knnews.co.kr|sisafocus.co.kr|ohmynews.com|yna.co.kr|spotvnews.co.kr|lawtimes.co.kr|digitaltoday.co.kr|kns.tv
-||livere.com^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr
-||livere.me^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr
-||livere.co.kr^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr
+||livere.com^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr|zdnet.co.kr
+||livere.me^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr|zdnet.co.kr
+||livere.co.kr^$domain=upinews.kr|sisain.co.kr|christiantoday.co.kr|zdnet.co.kr
 ||disqus.com^$domain=cent.com
 ||static-cdn.spot.im^$domain=foxnews.com
