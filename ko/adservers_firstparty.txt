@@ -1,3 +1,5 @@
 !
+||adcr.naver.com^
+||impression-neo.naver.com^
 ||adcr.shopping.naver.com^
 ||castbox.shopping.naver.com^

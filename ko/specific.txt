@@ -1,4 +1,8 @@
 !
+search.naver.com##.brand_search
+||search.pstatic.net/common/?type=*adimg.search.naver.net
+search.naver.com##.z_fashion
+search.naver.com##.ad_section
 ||static-whale.pstatic.net/main/$domain=www.naver.com
 www.naver.com###NM_TOP_BANNER
 www.naver.com###veta_branding
@@ -16,8 +20,7 @@ ruliweb.com##div[id^="ad_"]
 ruliweb.com##.nbp_container
 ||img.ruliweb.com/view/
 ||t1.daumcdn.net/adfit/
-||external.impression-neo.naver.com/api/v*/ads/
-||ssl.pstatic.net/adimg*.search/adpost/
+||ssl.pstatic.net/adimg*.search/
 ||arca.live/api/ads
 arca.live##.ad
 ||loader.fmkorea.com/_loader/loader.php
