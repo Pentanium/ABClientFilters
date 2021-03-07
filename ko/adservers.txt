@@ -1,4 +1,6 @@
 !
+||naverwebtoon-phinf.pstatic.net^
+||tvetamovie.pstatic.net^
 ||searchad-phinf.pstatic.net^
 ||googleads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^

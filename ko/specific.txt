@@ -1,4 +1,11 @@
 !
+comic.naver.com##a[onclick^="callWebAdBannerClick"]
+||ssl.pstatic.net/static/comic/images/txt_ads_v*.png
+||ssl.pstatic.net/tveta/$domain=comic.naver.com
+comic.naver.com###ppl_image_section
+comic.naver.com###ppl_default_section
+comic.naver.com###ppl_story_section
+comic.naver.com###ppl_video_section
 news.naver.com###doubleDA
 search.naver.com##.brand_search
 ||search.pstatic.net/common/?type=*adimg.search.naver.net
