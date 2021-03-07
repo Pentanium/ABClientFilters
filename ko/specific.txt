@@ -1,4 +1,5 @@
 !
+ruliweb.com##.ad
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div[id^="ad_"]
 ruliweb.com##.nbp_container
