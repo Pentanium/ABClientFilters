@@ -1,4 +1,6 @@
 !
+namu.wiki###tchika0b11eefd
+namu.wiki###tchikaf503b556
 m.ruliweb.com##.ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
 m.ruliweb.com##.fixed_ad_wrapper
