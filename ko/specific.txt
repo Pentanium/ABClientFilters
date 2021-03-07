@@ -1,4 +1,10 @@
 !
+||static-whale.pstatic.net/main/$domain=www.naver.com
+www.naver.com###NM_TOP_BANNER
+www.naver.com###veta_branding
+www.naver.com###veta_top
+www.naver.com###shopcast
+||veta.naver.com/fxshow
 namu.wiki###tchika0b11eefd
 namu.wiki###tchikaf503b556
 m.ruliweb.com##.ad_wrapper
