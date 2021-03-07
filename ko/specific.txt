@@ -1,4 +1,7 @@
 !
+m.ruliweb.com##.ad_wrapper
+m.ruliweb.com##div[id^="mo_ad_"]
+m.ruliweb.com##.fixed_ad_wrapper
 ruliweb.com##.ad
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div[id^="ad_"]
