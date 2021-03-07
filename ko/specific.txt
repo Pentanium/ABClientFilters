@@ -1,4 +1,11 @@
 !
+ruliweb.com##div[id^="adsense_"]
+ruliweb.com##div[id^="ad_"]
+ruliweb.com##.nbp_container
+||img.ruliweb.com/view/
+||t1.daumcdn.net/adfit/
+||external.impression-neo.naver.com/api/v*/ads/
+||ssl.pstatic.net/adimg*.search/adpost/
 ||arca.live/api/ads
 arca.live##.ad
 ||loader.fmkorea.com/_loader/loader.php
