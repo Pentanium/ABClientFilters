@@ -1,4 +1,5 @@
 !
+news.naver.com###doubleDA
 search.naver.com##.brand_search
 ||search.pstatic.net/common/?type=*adimg.search.naver.net
 search.naver.com##.z_fashion
