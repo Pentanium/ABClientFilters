@@ -1,2 +1,3 @@
 !
 ##ins.adsbygoogle
+##ins.kakao_ad_area
