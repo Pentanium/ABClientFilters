@@ -1,4 +1,5 @@
 !
+||ad.daum.net^
 ||adcr.naver.com^
 ||impression-neo.naver.com^
 ||adcr.shopping.naver.com^
