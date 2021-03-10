@@ -1,5 +1,8 @@
 !
+m.comic.naver.com##.ly_dim
+m.comic.naver.com##.ly_wrap
 comic.naver.com##a.adsby
+m.comic.naver.com##li[id^="flex_ad_"]
 ||shop2.daumcdn.net/thumb/
 ||t1.daumcdn.net/b2/ssp/awsa.js
 ||t1.daumcdn.net/kas/static/ads.js
