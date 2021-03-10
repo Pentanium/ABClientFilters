@@ -1,4 +1,5 @@
 !
+comic.naver.com##a.adsby
 ||shop2.daumcdn.net/thumb/
 ||t1.daumcdn.net/b2/ssp/awsa.js
 ||t1.daumcdn.net/kas/static/ads.js
