@@ -21,14 +21,12 @@ m.comic.naver.com##.ly_dim
 m.comic.naver.com##.ly_wrap
 comic.naver.com##a.adsby
 m.comic.naver.com##li[id^="flex_ad_"]
-||shop2.daumcdn.net/thumb/
 ||t1.daumcdn.net/b2/ssp/awsa.js
 ||t1.daumcdn.net/kas/static/ads.js
 www.daum.net##.wing_tmp
 www.daum.net###adMain
 ||t1.daumcdn.net/kas/static/na.min.js
 ||t1.daumcdn.net/b2/creative/
-||img1.daumcdn.net/thumb/
 comic.naver.com##a[onclick^="callWebAdBannerClick"]
 ||ssl.pstatic.net/static/comic/images/txt_ads_v*.png
 ||ssl.pstatic.net/tveta/$domain=comic.naver.com
