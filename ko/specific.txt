@@ -1,4 +1,5 @@
 !
+||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v*.min.js
 inven.co.kr##div[id^="webzineAd"]
 inven.co.kr###topskyAd
 inven.co.kr###comAdBBSSubject
