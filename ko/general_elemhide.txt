@@ -1,4 +1,5 @@
 !
+##div[id^="google_ads_iframe_"]
 ##ins.adsbygoogle
 ##iframe[src^="https://ads-partners.coupang.com/"]
 ##ins.kakao_ad_area
