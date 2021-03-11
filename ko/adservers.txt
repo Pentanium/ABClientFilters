@@ -1,4 +1,5 @@
 !
+||securepubads.g.doubleclick.net^
 ||adservice.google.co.jp^
 ||adservice.google.co.kr^
 ||adservice.google.com^
