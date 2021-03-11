@@ -1,4 +1,7 @@
 !
+||adservice.google.co.jp^
+||adservice.google.co.kr^
+||adservice.google.com^
 ||ads-partners.coupang.com^
 ||naverwebtoon-phinf.pstatic.net^
 ||tvetamovie.pstatic.net^
