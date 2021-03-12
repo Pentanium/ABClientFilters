@@ -1,4 +1,5 @@
 !
+dcinside.com##div.rightbanner
 dcinside.com##a[href^="http://addc.dcinside.com/"]
 dcinside.com##span#zzbang_ad
 dcinside.com###ad-layer
