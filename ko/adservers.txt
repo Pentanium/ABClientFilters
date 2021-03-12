@@ -1,4 +1,7 @@
 !
+||adapi.about.co.kr^
+||adx.turl.co.kr^
+||ad.about.co.kr^
 ||tpc.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
 ||adservice.google.co.jp^

@@ -1,4 +1,10 @@
 !
+dcinside.com##a[href^="http://addc.dcinside.com/"]
+dcinside.com##span#zzbang_ad
+dcinside.com###ad-layer
+||nstatic.dcinside.com/ad/
+dcinside.com##li[id="comment_li_0"][class="ub-content dory"]
+||dcinside.com/_js/ad.js
 clien.net###hongboInfoList
 clien.net###naverAd
 clien.net###side_banner
