@@ -1,4 +1,7 @@
 !
+todayhumor.co.kr##ins[title="Advertisement"][aria-label="Advertisement"]
+todayhumor.co.kr##div.under_ad_div
+todayhumor.co.kr##td.list_ad
 dcinside.com##div.rightbanner
 dcinside.com##a[href^="http://addc.dcinside.com/"]
 dcinside.com##span#zzbang_ad

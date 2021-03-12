@@ -1,4 +1,7 @@
 !
+||googleadservices.com^
+||adnxs.com^$third-party
+||compass.adop.cc^
 ||adapi.about.co.kr^
 ||adx.turl.co.kr^
 ||ad.about.co.kr^
