@@ -1,4 +1,9 @@
 !
+news.kmib.co.kr##div#netinsight_recommend_articles
+news.kmib.co.kr##iframe[src^="http://adsvr.kmib.co.kr/"]
+news.kmib.co.kr##div#NeoInteractiveScreenViewLayer
+news.kmib.co.kr##iframe[id="subIframe"][src^="http://news.kmib.co.kr/inc/ifm_sub_content.asp"]
+||api.screensharp.kr/ad/
 ||s3-utils.orbi.kr/*/*.jpg$image,domain=orbi.kr
 orbi.kr#$#div.global-top { top: 0px; }
 orbi.kr##div.panel.class-event-wrap

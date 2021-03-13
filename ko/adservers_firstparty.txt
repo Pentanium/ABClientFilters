@@ -1,4 +1,6 @@
 !
+||ad.kmib.co.kr^
+||adsvr.kmib.co.kr^
 ||adscdn.orbi.kr^
 ||ads.orbi.kr^
 ||addc.dcinside.com^
