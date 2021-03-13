@@ -1,4 +1,8 @@
 !
+||img.mobon.net/ad/
+ilbe.com##div[class$="top-banner"]
+ilbe.com##div#sky-banner-wrap
+||ilbe.com/images/kangtv.png
 news.kmib.co.kr##div#netinsight_recommend_articles
 news.kmib.co.kr##iframe[src^="http://adsvr.kmib.co.kr/"]
 news.kmib.co.kr##div#NeoInteractiveScreenViewLayer
