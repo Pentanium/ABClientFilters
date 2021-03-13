@@ -1,4 +1,9 @@
 !
+||s3-utils.orbi.kr/*/*.jpg$image,domain=orbi.kr
+orbi.kr#$#div.global-top { top: 0px; }
+orbi.kr##div.panel.class-event-wrap
+||s3-class.orbi.kr/event/
+orbi.kr##a[href^="https://ads.orbi.kr/"]
 humoruniv.com##div.ad_div
 mlbpark.donga.com##div.naver_power
 mlbpark.donga.com###SD_subti
