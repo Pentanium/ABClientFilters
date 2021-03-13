@@ -1,4 +1,9 @@
 !
+mlbpark.donga.com##div.naver_power
+mlbpark.donga.com###SD_subti
+mlbpark.donga.com##img[src^="http://image.donga.com/ad_sports/"]
+||image.donga.com/ad_sports/
+||contentsfeed.com/RealMedia/ads/
 todayhumor.co.kr##ins[title="Advertisement"][aria-label="Advertisement"]
 todayhumor.co.kr##div.under_ad_div
 todayhumor.co.kr##td.list_ad
