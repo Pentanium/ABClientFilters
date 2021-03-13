@@ -1,4 +1,5 @@
 !
+humoruniv.com##div.ad_div
 mlbpark.donga.com##div.naver_power
 mlbpark.donga.com###SD_subti
 mlbpark.donga.com##img[src^="http://image.donga.com/ad_sports/"]
