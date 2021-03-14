@@ -1,4 +1,6 @@
 !
+m.clien.net##div[id^="comment_naverAd_"]
+m.clien.net##.shop_naver
 m.dcinside.com##section.adv-group
 m.dcinside.com##div[class^="adv-group"]
 ||mediacategory.com/servlet/adBanner
@@ -38,7 +40,7 @@ dcinside.com###ad-layer
 dcinside.com##li[id="comment_li_0"][class="ub-content dory"]
 ||dcinside.com/_js/ad.js
 clien.net###hongboInfoList
-clien.net###naverAd
+clien.net##div[id^="naverAd"]
 clien.net###side_banner
 clien.net##.footer_ad
 clien.net##div[class$="_center_ad"]
