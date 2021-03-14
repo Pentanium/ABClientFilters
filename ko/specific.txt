@@ -1,4 +1,5 @@
 !
+quasarzone.com##div[classs$="flexsliderwrapper"]
 quasarzone.com##div#slickMainFootBanner
 quasarzone.com##div[class^="banner-"]
 ||img2.quasarzone.com/banner/
