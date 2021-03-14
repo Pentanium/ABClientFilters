@@ -1,4 +1,5 @@
 !
+||mediacategory.com/servlet/adBanner
 instiz.net##li#imgfoot
 instiz.net##a[class="minitext"][href="javascript:mini('광고 신고')"]
 instiz.net##div#adx6

@@ -1,4 +1,5 @@
 !
+##iframe[src^="https://www.mediacategory.com/servlet/adBanner"]
 ##ins.adsbyadop
 ##iframe[src^="//www.mediacategory.com/servlet/adBanner"]
 ##iframe[src^="https://realdsp.realclick.co.kr"]
