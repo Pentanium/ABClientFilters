@@ -1,4 +1,7 @@
 !
+quasarzone.com##div#slickMainFootBanner
+quasarzone.com##div[class^="banner-"]
+||img2.quasarzone.com/banner/
 m.clien.net##div[id^="comment_naverAd_"]
 m.clien.net##.shop_naver
 m.dcinside.com##section.adv-group
