@@ -1,4 +1,6 @@
 !
+m.dcinside.com##section.adv-group
+m.dcinside.com##div[class^="adv-group"]
 ||mediacategory.com/servlet/adBanner
 instiz.net##li#imgfoot
 instiz.net##a[class="minitext"][href="javascript:mini('광고 신고')"]
