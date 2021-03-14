@@ -1,4 +1,9 @@
 !
+instiz.net##li#imgfoot
+instiz.net##a[class="minitext"][href="javascript:mini('광고 신고')"]
+instiz.net##div#adx6
+instiz.net##div[class$="_dable_ad"]
+instiz.net##div[id$="_topad"]
 ||img.mobon.net/ad/
 ilbe.com##div[class$="top-banner"]
 ilbe.com##div#sky-banner-wrap
