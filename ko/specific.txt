@@ -1,4 +1,6 @@
 !
+namu.wiki##iframe[src^="//arca.live/static/ad/"]
+||arca.live/static/ad/
 quasarzone.com##div[classs$="flexsliderwrapper"]
 quasarzone.com##div#slickMainFootBanner
 quasarzone.com##div[class^="banner-"]
@@ -99,8 +101,7 @@ www.naver.com###veta_branding
 www.naver.com###veta_top
 www.naver.com###shopcast
 ||veta.naver.com/fxshow
-namu.wiki###tchika0b11eefd
-namu.wiki###tchikaf503b556
+namu.wiki###tchikab9e85087
 m.ruliweb.com##.ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
 m.ruliweb.com##.fixed_ad_wrapper
