@@ -1,4 +1,6 @@
 !
+ruliweb.com##tr.table_body.list_inner
+ruliweb.com###ti3_close
 cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/')
 namu.wiki##iframe[src^="//arca.live/static/ad/"]
 ||arca.live/static/ad/
