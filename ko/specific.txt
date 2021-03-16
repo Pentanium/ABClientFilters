@@ -1,4 +1,5 @@
 !
+cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/')
 namu.wiki##iframe[src^="//arca.live/static/ad/"]
 ||arca.live/static/ad/
 quasarzone.com##div[classs$="flexsliderwrapper"]
