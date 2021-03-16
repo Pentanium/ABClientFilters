@@ -1,4 +1,6 @@
 !
+##iframe[src^="https://ads.mncmedia.co.kr/"]
+##iframe[src^="//ads.mncmedia.co.kr/"]
 ##iframe[src^="https://www.mediacategory.com/servlet/adBanner"]
 ##ins.adsbyadop
 ##iframe[src^="//www.mediacategory.com/servlet/adBanner"]
