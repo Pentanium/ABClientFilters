@@ -1,4 +1,7 @@
 !
+m.danawa.com##div[class$="power_link"]
+search.danawa.com##div#powerClickListArea
+m.danawa.com##div#mdnw-footerBannerContainer
 ruliweb.com##tr.table_body.list_inner
 ruliweb.com###ti3_close
 cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/')

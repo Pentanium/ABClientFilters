@@ -1,4 +1,5 @@
 !
+||ad.danawa.com^
 ||acache.ilbe.com^
 ||ad.kmib.co.kr^
 ||adsvr.kmib.co.kr^
