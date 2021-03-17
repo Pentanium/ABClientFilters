@@ -1,4 +1,5 @@
 !
+lol.ps##div.ad-fullbg
 m.danawa.com##div[class$="power_link"]
 search.danawa.com##div#powerClickListArea
 m.danawa.com##div#mdnw-footerBannerContainer
