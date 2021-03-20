@@ -1,4 +1,6 @@
 !
+##iframe[src^="https://ad.reople.co.kr/"]
+##iframe[src^="//ad.reople.co.kr/"]
 ##iframe[src^="//yellow.contentsfeed.com/RealMedia/ads/"]
 ##iframe[src^="https://yellow.contentsfeed.com/RealMedia/ads/"]
 ##iframe[src^="//white.contentsfeed.com/RealMedia/ads/"]
