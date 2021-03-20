@@ -1,4 +1,12 @@
 !
+donga.com##div.center_ban
+donga.com##div[class^="view_ads"]
+donga.com##div[class^="aside_adzone"]
+donga.com##div.viewad_top
+donga.com##div#top_adzone
+donga.com##div[id$="_wingad"]
+donga.com##div.txt_ban
+||image.donga.com/adma/
 nocutnews.co.kr##div[id^="dcamp_ad_"]
 nocutnews.co.kr##div[class^="ad_sky"]
 nocutnews.co.kr##div.ad_view

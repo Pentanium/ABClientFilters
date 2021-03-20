@@ -1,4 +1,9 @@
 !
+||ad*.wisenut.co.kr^
+||ad.reople.co.kr^
+||acrosspf.com^$third-party
+||ads.mncmedia.co.kr^
+||catad5959.com^$third-party
 ||cdn.targetpush.co.kr^$third-party
 ||ad.esmplus.com^$third-party
 ||adcheck.about.co.kr^
