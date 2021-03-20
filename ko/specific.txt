@@ -1,4 +1,10 @@
 !
+nocutnews.co.kr##div[id^="dcamp_ad_"]
+nocutnews.co.kr##div[class^="ad_sky"]
+nocutnews.co.kr##div.ad_view
+nocutnews.co.kr##div[id^="targetpushAd_"]
+nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
+nocutnews.co.kr##div.ad_top1
 lol.ps##div.ad-fullbg
 m.danawa.com##div[class$="power_link"]
 search.danawa.com##div#powerClickListArea

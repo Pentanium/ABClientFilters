@@ -1,4 +1,6 @@
 !
+##iframe[src^="//white.contentsfeed.com/RealMedia/ads/"]
+##iframe[src^="https://white.contentsfeed.com/RealMedia/ads/"]
 ##iframe[src^="https://ads.mncmedia.co.kr/"]
 ##iframe[src^="//ads.mncmedia.co.kr/"]
 ##iframe[src^="https://www.mediacategory.com/servlet/adBanner"]

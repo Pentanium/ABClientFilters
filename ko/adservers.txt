@@ -1,4 +1,5 @@
 !
+||cdn.targetpush.co.kr^$third-party
 ||ad.esmplus.com^$third-party
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
