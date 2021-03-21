@@ -1,4 +1,8 @@
 !
+zdnet.co.kr##div.power_box
+zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
+zdnet.co.kr##iframe[src^="/ads/"]
+||image.zdnet.co.kr/banner/
 ppomppu.co.kr##img[src^="//cdn.ppomppu.co.kr/zboard/data3/banner/"]
 ppomppu.co.kr##div.ppomCou
 ppomppu.co.kr##div.board-preview.board-ppomppu
