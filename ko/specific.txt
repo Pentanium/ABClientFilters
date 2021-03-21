@@ -1,4 +1,11 @@
 !
+ppomppu.co.kr##img[src^="//cdn.ppomppu.co.kr/zboard/data3/banner/"]
+ppomppu.co.kr##div.ppomCou
+ppomppu.co.kr##div.board-preview.board-ppomppu
+ppomppu.co.kr##div.topSub-nav
+ppomppu.co.kr##div.shopping-preview
+||cdn.ppomppu.co.kr/zboard/data3/event_products/
+||cdn.ppomppu.co.kr/zboard/data3/banner/
 donga.com##div.center_ban
 donga.com##div[class^="view_ads"]
 donga.com##div[class^="aside_adzone"]
