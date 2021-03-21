@@ -1,4 +1,5 @@
 !
+mk.co.kr##div[class^="bn_sec"]
 zdnet.co.kr##div.power_box
 zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
 zdnet.co.kr##iframe[src^="/ads/"]
