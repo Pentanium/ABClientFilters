@@ -1,4 +1,9 @@
 !
+biz.heraldcorp.com##iframe[src*="//adw.heraldm.com/"]
+biz.heraldcorp.com##div.article_right
+biz.heraldcorp.com##div.mt50.ad7
+biz.heraldcorp.com##li[id^="mnc_ad_"]
+biz.heraldcorp.com##div[class^="ad"]
 mk.co.kr##div[class^="bn_sec"]
 zdnet.co.kr##div.power_box
 zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
@@ -54,7 +59,7 @@ ilbe.com##div#sky-banner-wrap
 ||ilbe.com/images/kangtv.png
 news.kmib.co.kr##div#netinsight_recommend_articles
 news.kmib.co.kr##iframe[src^="http://adsvr.kmib.co.kr/"]
-news.kmib.co.kr##div#NeoInteractiveScreenViewLayer
+biz.heraldcorp.com,news.kmib.co.kr##div#NeoInteractiveScreenViewLayer
 news.kmib.co.kr##iframe[id="subIframe"][src^="http://news.kmib.co.kr/inc/ifm_sub_content.asp"]
 ||api.screensharp.kr/ad/
 ||s3-utils.orbi.kr/*/*.jpg$image,domain=orbi.kr
