@@ -1,4 +1,4 @@
-
+!
 @@||pstatic.net^$image,stealth
 @@||naver.net/wcslog.js
 @@||dcinside.co.kr/viewimage.php$image,stealth

@@ -1,4 +1,6 @@
 !
+reurl.kr##img[src^="../../data/bbs/"]
+||reurl.kr/data/bbs/
 cafe.naver.com##div.power_ad
 ||veta.naver.com/adcall
 biz.heraldcorp.com##iframe[src*="//adw.heraldm.com/"]
