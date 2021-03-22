@@ -1,4 +1,6 @@
 !
+cafe.naver.com##div.power_ad
+||veta.naver.com/adcall
 biz.heraldcorp.com##iframe[src*="//adw.heraldm.com/"]
 biz.heraldcorp.com##div.article_right
 biz.heraldcorp.com##div.mt50.ad7
