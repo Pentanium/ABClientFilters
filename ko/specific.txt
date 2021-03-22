@@ -123,7 +123,7 @@ www.daum.net###adMain
 ||t1.daumcdn.net/b2/creative/
 comic.naver.com##a[onclick^="callWebAdBannerClick"]
 ||ssl.pstatic.net/static/comic/images/txt_ads_v*.png
-||ssl.pstatic.net/tveta/$domain=comic.naver.com|newsstand.naver.com|www.naver.com
+||ssl.pstatic.net/tveta/$domain=comic.naver.com|newsstand.naver.com|www.naver.com|news.naver.com
 comic.naver.com###ppl_image_section
 comic.naver.com###ppl_default_section
 comic.naver.com###ppl_story_section
