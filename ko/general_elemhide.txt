@@ -1,4 +1,5 @@
 !
+##iframe[src^="https://veta.naver.com/fxshow?"]
 ##iframe[src*="//ad.adinc.kr/"]
 ##iframe[src^="https://api.dable.io/"]
 ##iframe[src*="//ad.reople.co.kr/"]
