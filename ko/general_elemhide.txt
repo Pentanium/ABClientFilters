@@ -1,4 +1,5 @@
 !
+##iframe[src^="https://api.dable.io/"]
 ##iframe[src*="//ad.reople.co.kr/"]
 ##iframe[src*="//yellow.contentsfeed.com/RealMedia/ads/"]
 ##iframe[src*="//white.contentsfeed.com/RealMedia/ads/"]
