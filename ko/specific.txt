@@ -1,5 +1,7 @@
 
 !
+||veta.naver.com/fxclick
+comic.naver.com##div.ad_banner_premium
 ||ssl.pstatic.net/static/kin/*renewal/promotion
 kin.naver.com##div#rightTopBanner
 kin.naver.com##div#pcDetailBannerArea
