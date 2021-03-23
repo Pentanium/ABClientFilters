@@ -1,4 +1,5 @@
 !
+m.comic.naver.com##div.band_banner
 m.comic.naver.com##div#naver_ssp_da
 ||veta.naver.com/fxclick
 comic.naver.com##div.ad_banner_premium
