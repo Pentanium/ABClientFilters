@@ -1,4 +1,9 @@
+
 !
+||ssl.pstatic.net/static/kin/*renewal/promotion
+kin.naver.com##div#rightTopBanner
+kin.naver.com##div#pcDetailBannerArea
+kin.naver.com##div#powerlink_kin
 reurl.kr##img[src^="../../data/bbs/"]
 ||reurl.kr/data/bbs/
 cafe.naver.com##div.power_ad
