@@ -1,4 +1,8 @@
 !
+##iframe[src*="//io1.innorame.com/"]
+##iframe[src*="//cdn.interworksmedia.co.kr/"]
+##iframe[src*="//adex.ednplus.com/"]
+##iframe[src*="//adv.imadrep.co.kr/"]
 ##iframe[src*="https://media.adpnut.com/"]
 ##iframe[src*="//www.mediacategory.com/servlet/adbnMobileBanner"]
 ##iframe[src*="veta.naver.com/fxshow?"]
