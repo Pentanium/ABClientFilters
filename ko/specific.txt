@@ -1,4 +1,8 @@
 !
+news.joins.com##div[id^="ab_adtxt_"]
+news.joins.com##div[data-widget-type="Ad"]
+news.joins.com##iframe[src^="//ad.imp.joins.com/"]
+news.joins.com##div.ad_top
 news.sbs.co.kr##div[id^="dablewidget_"]
 news.sbs.co.kr##div[id^="sn_banner_"]
 ||img.sbs.co.kr/*/ad/
@@ -46,7 +50,7 @@ donga.com##div.txt_ban
 nocutnews.co.kr##div[id^="dcamp_ad_"]
 nocutnews.co.kr##div[class^="ad_sky"]
 nocutnews.co.kr##div.ad_view
-nocutnews.co.kr##div[id^="targetpushAd_"]
+news.joins.com,nocutnews.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
 nocutnews.co.kr##div.ad_top1
 lol.ps##div.ad-fullbg

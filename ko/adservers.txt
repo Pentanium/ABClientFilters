@@ -1,4 +1,6 @@
 !
+||adv.imadrep.co.kr^
+||adpnut.com^$third-party
 ||ad.smartmediarep.com^
 ||mobon.net^$third-party
 ||innorame.com^$third-party

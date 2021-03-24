@@ -1,4 +1,5 @@
 !
+||ad.imp.joins.com^
 ||adservice.sbs.co.kr^
 ||adw.heraldm.com^
 ||adv.zdnet.co.kr^

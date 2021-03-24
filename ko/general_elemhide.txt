@@ -1,4 +1,5 @@
 !
+##iframe[src*="https://media.adpnut.com/"]
 ##iframe[src*="//www.mediacategory.com/servlet/adbnMobileBanner"]
 ##iframe[src*="veta.naver.com/fxshow?"]
 ##iframe[src*="//ad.adinc.kr/"]
