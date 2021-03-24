@@ -1,4 +1,8 @@
 !
+tdgall.com##div[id^="mobonDivBanner_"]
+tdgall.com##body > div[style="height:50px"]
+tdgall.com##div#madhd
+||mediacategory.com/servlet/adbnMobileBanner
 m.comic.naver.com##div.band_banner
 m.comic.naver.com##div#naver_ssp_da
 ||veta.naver.com/fxclick
