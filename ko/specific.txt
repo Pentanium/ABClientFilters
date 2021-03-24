@@ -1,4 +1,5 @@
 !
+hankyung.com##div.articlebanner
 hankyung.com##div.asidemodule.info_time
 hankyung.com##div.ixx-popup-wrap
 hankyung.com#$#div.module_wrap.poll { width: 100%; }
