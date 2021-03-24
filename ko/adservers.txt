@@ -1,4 +1,6 @@
 !
+||interworksmedia.co.kr^$third-party
+||adex.ednplus.com^
 ||adv.imadrep.co.kr^
 ||adpnut.com^$third-party
 ||ad.smartmediarep.com^
