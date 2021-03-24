@@ -1,4 +1,7 @@
 !
+news.sbs.co.kr##div[id^="dablewidget_"]
+news.sbs.co.kr##div[id^="sn_banner_"]
+||img.sbs.co.kr/*/ad/
 tdgall.com##div[id^="mobonDivBanner_"]
 tdgall.com##body > div[style="height:50px"]
 tdgall.com##div#madhd
