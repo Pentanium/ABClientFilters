@@ -1,8 +1,10 @@
 !
 ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
 blind513.tistory.com##div#fab-enabled
-||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js
-||cdnjs.cloudflare.com/ajax/libs/blockadblock/*/blockadblock.js
+/fuckadblock.js
+/fuckadblock.min.js
+/blockadblock.js
+/blockadblock.min.js
 shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 tistory.com#%#//scriptlet('abort-current-inline-script', 'window.document.getElementById', 'h237')
 tistory.com###h237
