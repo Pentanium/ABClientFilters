@@ -1,4 +1,5 @@
 !
+ruliweb.com##div[class^="nbp_container"]
 hankyung.com##div.articlebanner
 hankyung.com##div.asidemodule.info_time
 hankyung.com##div.ixx-popup-wrap
@@ -175,7 +176,7 @@ m.ruliweb.com##.fixed_ad_wrapper
 arca.live,ruliweb.com##.ad
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div[id^="ad_"]
-ruliweb.com##.nbp_container
+ruliweb.com##div[id^="nbp_container"]
 ||img.ruliweb.com/view/
 ||t1.daumcdn.net/adfit/
 ||arca.live/api/ads
