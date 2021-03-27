@@ -1,4 +1,6 @@
 !
+blog.naver.com##div#ssp-adpost
+blog.naver.com##div[ng-style="happyBean"]
 ruliweb.com##div[class^="nbp_container"]
 hankyung.com##div.articlebanner
 hankyung.com##div.asidemodule.info_time
