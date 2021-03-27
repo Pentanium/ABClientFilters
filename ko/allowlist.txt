@@ -1,5 +1,5 @@
 !
-@@||cloudfront.net^$domain=postype.com,stealth
+@@||cloudfront.net^$domain=postype.com,stealth,image
 @@||pstatic.net^$image,stealth
 @@||naver.net/wcslog.js
 @@||dcinside.co.kr/viewimage.php$image,stealth
