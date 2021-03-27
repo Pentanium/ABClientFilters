@@ -1,4 +1,5 @@
 !
+webtoon.daum.net##div#momentAd
 cafe.naver.com##div.AdvertArea
 blog.naver.com##div#ssp-adpost
 blog.naver.com##div[ng-style="happyBean"]
