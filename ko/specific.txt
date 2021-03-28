@@ -1,4 +1,8 @@
 !
+2cpu.co.kr##a[href^="../ad_board/"]
+2cpu.co.kr#$#body > header > div.container-fluid > div.row { height: 60px; }
+2cpu.co.kr##a[href^="../bbs/banner_link.php"]
+||2cpu.co.kr/data/banner/
 gigglehd.com##ul.banner_list
 gigglehd.com##div.nw_box
 coolenjoy.net##body > div#jb-container > div#container2 > div#wrap > div#sidebar > div.tab
@@ -33,7 +37,7 @@ comic.naver.com##div.ad_banner_premium
 ||ssl.pstatic.net/static/kin/*renewal/promotion
 kin.naver.com##div#rightTopBanner
 kin.naver.com##div#pcDetailBannerArea
-kin.naver.com##div#powerlink_kin
+2cpu.co.kr,kin.naver.com##div[id^="powerlink"]
 reurl.kr##img[src^="../../data/bbs/"]
 ||reurl.kr/data/bbs/
 cafe.naver.com##div.power_ad
