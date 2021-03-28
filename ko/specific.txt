@@ -1,4 +1,6 @@
 !
+gigglehd.com##ul.banner_list
+gigglehd.com##div.nw_box
 coolenjoy.net##body > div#jb-container > div#container2 > div#wrap > div#sidebar > div.tab
 coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
 ||photo.coolenjoy.net/banner/
