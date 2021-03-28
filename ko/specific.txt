@@ -174,9 +174,8 @@ www.naver.com###veta_top
 www.naver.com###shopcast
 ||veta.naver.com/fxshow
 namu.wiki###tchikab9e85087
-m.ruliweb.com##.ad_wrapper
+m.ruliweb.com##div[class$="ad_wrapper"]
 m.ruliweb.com##div[id^="mo_ad_"]
-m.ruliweb.com##.fixed_ad_wrapper
 arca.live,ruliweb.com##.ad
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div[id^="ad_"]
