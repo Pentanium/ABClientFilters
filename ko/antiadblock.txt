@@ -1,5 +1,6 @@
 !
-ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
+doctorson0309.tistory.com##div#adblocktestdiv
+tistory.com,ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
 blind513.tistory.com##div#fab-enabled
 /fuckadblock.js
 /fuckadblock.min.js
