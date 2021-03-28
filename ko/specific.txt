@@ -1,4 +1,7 @@
 !
+coolenjoy.net##body > div#jb-container > div#container2 > div#wrap > div#sidebar > div.tab
+coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
+||photo.coolenjoy.net/banner/
 webtoon.daum.net##div#momentAd
 cafe.naver.com##div.AdvertArea
 blog.naver.com##div#ssp-adpost
