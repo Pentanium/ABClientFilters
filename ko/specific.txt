@@ -1,4 +1,5 @@
 !
+m.naver.com##div.MM_DA_BRANDING_BANNER_INNER
 ||shop.kbench.com/09shop/article_right_box*.php
 ||www.kbench.com/article_right_box.php
 kbench.com##iframe[src^="https://shop.kbench.com/09shop/article_right_box"]
