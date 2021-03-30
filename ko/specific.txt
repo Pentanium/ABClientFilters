@@ -1,4 +1,6 @@
 !
+m.search.naver.com##section.sc.nx_pla
+m.search.naver.com##section.sc.sp_power
 m.naver.com##div.MM_DA_BRANDING_BANNER_INNER
 ||shop.kbench.com/09shop/article_right_box*.php
 ||www.kbench.com/article_right_box.php
