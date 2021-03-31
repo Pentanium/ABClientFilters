@@ -92,6 +92,8 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//native.mediacategory.com/servlet/adContentsBox"]
+##iframe[src^="https://was.livere.me/ad"]
 ##iframe[src*="//io1.innorame.com/"]
 ##iframe[src*="//cdn.interworksmedia.co.kr/"]
 ##iframe[src*="//adex.ednplus.com/"]
@@ -115,6 +117,13 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+etnews.com##div[class^="ad_"]
+||mediacategory.com/servlet/adContentsBox
+||was.livere.me/ad
+||etnews.com/tools/refresh_script.html
+etnews.com##aside[class^="ad_"]
+etnews.com##div[class^="ad_"]
+||img.etnews.com/Et/etnews/banner
 ||dt.co.kr/ad_top.html
 dt.co.kr##div#top_ad
 m.search.naver.com##section.sc.nx_pla
