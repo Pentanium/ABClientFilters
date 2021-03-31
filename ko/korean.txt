@@ -46,6 +46,8 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||adsrv.dt.co.kr^
+||adreal.dt.co.kr^
 ||ad.imp.joins.com^
 ||adservice.sbs.co.kr^
 ||adw.heraldm.com^
@@ -71,7 +73,7 @@
 @@||naver.net/wcslog.js
 @@||dcinside.co.kr/viewimage.php$image,stealth
 !
-! #ZE:ALLOWLIST
+! #ZE:ANTIADBLOCK
 doctorson0309.tistory.com##div#adblocktestdiv
 tistory.com,ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
 blind513.tistory.com##div#fab-enabled
@@ -83,7 +85,7 @@ shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 tistory.com#%#//scriptlet('abort-current-inline-script', 'window.document.getElementById', 'h237')
 tistory.com###h237
 !
-! #ZE:ANTIADBLOCK
+! #ZE:EXTENDED_CSS
 2cpu.co.kr#?#tr[-ext-contains="광고"]
 gigglehd.com#?#div[class^="xe-widget-wrapper"][style^="BACKGROUND-IMAGE: none; BORDER-BOTTOM:"]:upward(div.xe-widget-wrapper)
 m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
@@ -113,6 +115,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||dt.co.kr/ad_top.html
+dt.co.kr##div#top_ad
 m.search.naver.com##section.sc.nx_pla
 m.search.naver.com##section.sc.sp_power
 m.naver.com##div.MM_DA_BRANDING_BANNER_INNER
@@ -194,7 +198,7 @@ donga.com##div.txt_ban
 nocutnews.co.kr##div[id^="dcamp_ad_"]
 nocutnews.co.kr##div[class^="ad_sky"]
 nocutnews.co.kr##div.ad_view
-news.joins.com,nocutnews.co.kr,hankyung.com##div[id^="targetpushAd_"]
+news.joins.com,nocutnews.co.kr,hankyung.com,dt.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
 nocutnews.co.kr##div.ad_top1
 lol.ps##div.ad-fullbg
