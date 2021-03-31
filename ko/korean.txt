@@ -86,6 +86,7 @@ tistory.com#%#//scriptlet('abort-current-inline-script', 'window.document.getEle
 tistory.com###h237
 !
 ! #ZE:EXTENDED_CSS
+quasarzone.com#?#a[href^="javascript:clickBanner"]:upward(div[class$="flexsliderwrapper"])
 2cpu.co.kr#?#tr[-ext-contains="광고"]
 gigglehd.com#?#div[class^="xe-widget-wrapper"][style^="BACKGROUND-IMAGE: none; BORDER-BOTTOM:"]:upward(div.xe-widget-wrapper)
 m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
@@ -219,7 +220,6 @@ ruliweb.com###ti3_close
 cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/')
 namu.wiki##iframe[src^="//arca.live/static/ad/"]
 ||arca.live/static/ad/
-quasarzone.com##div[class$="flexsliderwrapper"]
 quasarzone.com##div#slickMainFootBanner
 quasarzone.com##div[class^="banner-"]
 ||img2.quasarzone.com/banner/
