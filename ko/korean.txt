@@ -118,12 +118,10 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
-etnews.com##div[class^="ad_"]
 ||mediacategory.com/servlet/adContentsBox
 ||was.livere.me/ad
 ||etnews.com/tools/refresh_script.html
 etnews.com##aside[class^="ad_"]
-etnews.com##div[class^="ad_"]
 ||img.etnews.com/Et/etnews/banner
 ||dt.co.kr/ad_top.html
 dt.co.kr##div#top_ad
@@ -155,12 +153,10 @@ hankyung.com##div.articlebanner
 hankyung.com##div.asidemodule.info_time
 hankyung.com##div.ixx-popup-wrap
 hankyung.com#$#div.module_wrap.poll { width: 100%; }
-hankyung.com##div.ad_img.ad_aside03
 hankyung.com##div.powerlink
 news.joins.com##div[id^="ab_adtxt_"]
 news.joins.com##div[data-widget-type="Ad"]
 news.joins.com##iframe[src^="//ad.imp.joins.com/"]
-hankyung.com,news.joins.com##div.ad_top
 news.sbs.co.kr##div[id^="dablewidget_"]
 news.sbs.co.kr##div[id^="sn_banner_"]
 ||img.sbs.co.kr/*/ad/
@@ -171,7 +167,6 @@ tdgall.com##div#madhd
 m.comic.naver.com##div.band_banner
 m.comic.naver.com##div#naver_ssp_da
 ||veta.naver.com/fxclick
-comic.naver.com##div.ad_banner_premium
 ||ssl.pstatic.net/static/kin/*renewal/promotion
 kin.naver.com##div#rightTopBanner
 kin.naver.com##div#pcDetailBannerArea
@@ -206,11 +201,9 @@ donga.com##div[id$="_wingad"]
 donga.com##div.txt_ban
 ||image.donga.com/adma/
 nocutnews.co.kr##div[id^="dcamp_ad_"]
-nocutnews.co.kr##div[class^="ad_sky"]
-nocutnews.co.kr##div.ad_view
+etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com##div[class^="ad_"]
 news.joins.com,nocutnews.co.kr,hankyung.com,dt.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
-nocutnews.co.kr##div.ad_top1
 lol.ps##div.ad-fullbg
 m.danawa.com##div[class$="power_link"]
 search.danawa.com##div#powerClickListArea
@@ -247,7 +240,6 @@ orbi.kr#$#div.global-top { top: 0px; }
 orbi.kr##div.panel.class-event-wrap
 ||s3-class.orbi.kr/event/
 orbi.kr##a[href^="https://ads.orbi.kr/"]
-humoruniv.com##div.ad_div
 mlbpark.donga.com##div.naver_power
 mlbpark.donga.com###SD_subti
 mlbpark.donga.com##img[src^="http://image.donga.com/ad_sports/"]
