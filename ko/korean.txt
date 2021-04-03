@@ -1,5 +1,7 @@
 !
 ! #ZE:ADSERVER
+||adplex.co.kr^$third-party
+||thetopic.co.kr^$third-party
 ||msadsense.com^
 ||interworksmedia.co.kr^$third-party
 ||adex.ednplus.com^
@@ -118,6 +120,12 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+asiae.co.kr##div[class^="ad_"]
+asiae.co.kr##div.art_btm
+asiae.co.kr##div.fl_fr
+asiae.co.kr##div[class$="_ad"]
+asiae.co.kr##a[href*="//a1.asiae.co.kr/RealMedia/ads/"]
+||asiae.co.kr/RealMedia/ads/
 ||image.news1.kr/system/ads_
 news1.kr##img[src^="https://image.news1.kr/system/ads_"]
 coinpan.com##img.banner_img
