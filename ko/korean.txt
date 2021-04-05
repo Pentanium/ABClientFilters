@@ -48,6 +48,7 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||advert.estsoft.com^
 ||adr.zum.com^
 ||displayad.zum.com^
 ||displayadimg.zumst.com^
@@ -126,6 +127,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+zum.com##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
 zum.com##div.shopping_box.d_shopping_box
