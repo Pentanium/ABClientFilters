@@ -48,6 +48,8 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||cyad1.nate.com^
+||adimg.nate.com^
 ||advert.estsoft.com^
 ||adr.zum.com^
 ||displayad.zum.com^
@@ -127,6 +129,12 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+www.nate.com##div#cbContainer
+www.nate.com##div#adContainer
+www.nate.com##div[id="shopping"][class="area_shopping"]
+www.nate.com##div.adBox.adbg
+www.nate.com##div.area_shopping_today
+www.nate.com#$#div#header { height: 100px; }
 news.zum.com##div.right_shopping_box
 ||set1-shoplayer.zumst.com/resources/images/shopping_box_
 zum.com##div[class^="banner_"]
