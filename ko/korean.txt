@@ -127,6 +127,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+news.zum.com##div.right_shopping_box
+||set1-shoplayer.zumst.com/resources/images/shopping_box_
 zum.com##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
