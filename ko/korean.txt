@@ -161,7 +161,6 @@ khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 khan.co.kr##a[href*="//adv.khan.co.kr/"]
 khan.co.kr,search.zum.com##div[id^="ad"]
 ||img.khan.co.kr/ads/
-asiae.co.kr##div[class^="ad_"]
 asiae.co.kr##div.art_btm
 asiae.co.kr##div.fl_fr
 asiae.co.kr##div[class$="_ad"]
@@ -254,7 +253,7 @@ donga.com##div[id$="_wingad"]
 donga.com##div.txt_ban
 ||image.donga.com/adma/
 nocutnews.co.kr##div[id^="dcamp_ad_"]
-etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr##div[class^="ad_"]
+etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr,asiae.co.kr##div[class^="ad_"]
 news.joins.com,nocutnews.co.kr,hankyung.com,dt.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
 lol.ps##div.ad-fullbg
