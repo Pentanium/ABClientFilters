@@ -146,7 +146,7 @@ www.nate.com##div.area_shopping_today
 www.nate.com#$#div#header { height: 100px; }
 news.zum.com##div.right_shopping_box
 ||set1-shoplayer.zumst.com/resources/images/shopping_box_
-zum.com##div[class^="banner_"]
+sisajournal.com,zum.com##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
 zum.com##div.shopping_box.d_shopping_box
@@ -160,7 +160,6 @@ zum.com##div#wrap_ad_main
 zum.com#$#div.box_today_wrap.d_box_today_issue { top: -330px; }
 ||shop.zumst.com/upload/shoppingbox/
 ||sisajournal.com/bannerpop/
-sisajournal.com##div.banner_box
 khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 khan.co.kr##a[href*="//adv.khan.co.kr/"]
 khan.co.kr,search.zum.com##div[id^="ad"]
