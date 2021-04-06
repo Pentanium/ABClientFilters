@@ -159,7 +159,7 @@ zum.com#$#div.box_today_wrap.d_box_today_issue { top: -330px; }
 sisajournal.com##div.banner_box
 khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 khan.co.kr##a[href*="//adv.khan.co.kr/"]
-khan.co.kr##div[id^="ad"]
+khan.co.kr,search.zum.com##div[id^="ad"]
 ||img.khan.co.kr/ads/
 asiae.co.kr##div[class^="ad_"]
 asiae.co.kr##div.art_btm
