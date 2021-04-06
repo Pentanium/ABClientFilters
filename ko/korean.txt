@@ -131,6 +131,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+estate.nate.com##div.ad_con.s01
 search.zum.com##div.shopping_sc.naver_power_shopping
 search.zum.com##div.sponsor_sc.section
 search.zum.com##div[id^="adx_searchzum"]
