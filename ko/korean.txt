@@ -48,6 +48,7 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||networkad.nate.com^
 ||ad.zumst.com^
 ||adxv.zum.com^
 ||cyad1.nate.com^
@@ -131,6 +132,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.pann.nate.com##div#bannerBtm
+m.pann.nate.com##iframe[id^="ad_"]
 estate.nate.com##div.ad_con.s01
 search.zum.com##div.shopping_sc.naver_power_shopping
 search.zum.com##div.sponsor_sc.section
@@ -254,7 +257,7 @@ donga.com##div[id$="_wingad"]
 donga.com##div.txt_ban
 ||image.donga.com/adma/
 nocutnews.co.kr##div[id^="dcamp_ad_"]
-etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr,asiae.co.kr##div[class^="ad_"]
+etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr,asiae.co.kr,m.pann.nate.com##div[class^="ad_"]
 news.joins.com,nocutnews.co.kr,hankyung.com,dt.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
 lol.ps##div.ad-fullbg
