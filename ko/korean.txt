@@ -48,6 +48,8 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||ad.zumst.com^
+||adxv.zum.com^
 ||cyad1.nate.com^
 ||adimg.nate.com^
 ||advert.estsoft.com^
@@ -129,6 +131,9 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+search.zum.com##div.shopping_sc.naver_power_shopping
+search.zum.com##div.sponsor_sc.section
+search.zum.com##div[id^="adx_searchzum"]
 www.nate.com##div#cbContainer
 www.nate.com##div#adContainer
 www.nate.com##div[id="shopping"][class="area_shopping"]
