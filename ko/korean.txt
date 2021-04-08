@@ -87,7 +87,6 @@
 @@||dcinside.co.kr/viewimage.php$image,stealth
 !
 ! #ZE:ANTIADBLOCK
-mainia.tistory.com#%#//scriptlet('abort-current-inline-script', 'function', 'l, m')
 doctorson0309.tistory.com##div#adblocktestdiv
 tistory.com,ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
 blind513.tistory.com##div#fab-enabled
