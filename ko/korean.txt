@@ -94,7 +94,7 @@ blind513.tistory.com##div#fab-enabled
 /fuckadblock.min.js
 /blockadblock.js
 /blockadblock.min.js
-shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
+blog.krcesdev.com,shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
 zum.com#?#div[id="d_hub_native_ad"][data-outurl^="https://adr.zum.com/"]:upward(0)
