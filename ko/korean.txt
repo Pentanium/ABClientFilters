@@ -97,6 +97,8 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
+tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
 zum.com#?#div[id="d_hub_native_ad"][data-outurl^="https://adr.zum.com/"]:upward(0)
 quasarzone.com#?#a[href^="javascript:clickBanner"]:upward(div[class$="flexsliderwrapper"])
 2cpu.co.kr#?#tr[-ext-contains="광고"]
