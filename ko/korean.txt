@@ -130,6 +130,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.fmkorea.com##div.adpost
 ||koreabiomed.com/bannerpop/
 koreabiomed.com##div.banner_box
 magazine.hankyung.com##div.aside-module.banner-aside
@@ -385,4 +386,4 @@ ruliweb.com##div[id^="nbp_container"]
 ||loader.fmkorea.com/_loader/loader.php
 m.fmkorea.com##iframe[src^="//loader.fmkorea.com/_loader/loader.php?"]
 ||loader.fmkorea.com/_myphp/adpost/
-fmkorea.com###adpost
+fmkorea.com##div#adpost
