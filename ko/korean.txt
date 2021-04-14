@@ -143,7 +143,6 @@ ohmynews.com##ul.ad_area
 ohmynews.com##div#dvCenterAd
 m.fmkorea.com##div.adpost
 ||koreabiomed.com/bannerpop/
-safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr##div.banner_box
 magazine.hankyung.com##div.aside-module.banner-aside
 magazine.hankyung.com##div.aside-module.ad-aside
 ||static.hankyung.com/img/magazine/*/banners/
@@ -164,7 +163,7 @@ www.nate.com##div.area_shopping_today
 www.nate.com#$#div#header { height: 100px; }
 news.zum.com##div.right_shopping_box
 ||set1-shoplayer.zumst.com/resources/images/shopping_box_
-womennews.co.kr,sisajournal.com,zum.com##div[class^="banner_"]
+womennews.co.kr,sisajournal.com,zum.com,safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
 zum.com##div.shopping_box.d_shopping_box
