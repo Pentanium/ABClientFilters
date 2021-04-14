@@ -133,6 +133,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||cdn.safetynews.co.kr/bannerpop/
 ||energydaily.co.kr/bannerpop/
 ||mindpost.or.kr/bannerpop/
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/2012_ad_rolling.htm"]
@@ -142,7 +143,7 @@ ohmynews.com##ul.ad_area
 ohmynews.com##div#dvCenterAd
 m.fmkorea.com##div.adpost
 ||koreabiomed.com/bannerpop/
-koreabiomed.com,mindpost.or.kr,energydaily.co.kr##div.banner_box
+safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr##div.banner_box
 magazine.hankyung.com##div.aside-module.banner-aside
 magazine.hankyung.com##div.aside-module.ad-aside
 ||static.hankyung.com/img/magazine/*/banners/
