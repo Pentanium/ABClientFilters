@@ -133,6 +133,10 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||funbe.app/images/$image
+||funbe.app/bann/
+funbe.app##div.col-md-12.mobile-banner
+funbe.app##img[id^="banner_"]
 ||cdn.safetynews.co.kr/bannerpop/
 ||energydaily.co.kr/bannerpop/
 ||mindpost.or.kr/bannerpop/
