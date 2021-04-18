@@ -133,6 +133,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||nad.newdaily.co.kr/RealMedia/ads/
+newdaily.co.kr##iframe[src*="//nad.newdaily.co.kr/RealMedia/ads/"]
 ||funbe.app/images/$image
 ||funbe.app/bann/
 funbe.app##div.col-md-12.mobile-banner
