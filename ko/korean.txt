@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||ad.tjtune.com^
 ||adplex.co.kr^$third-party
 ||thetopic.co.kr^$third-party
 ||msadsense.com^
