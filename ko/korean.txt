@@ -49,6 +49,7 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||ad.ilbe.com^
 ||adc.ohmynews.com^
 ||networkad.nate.com^
 ||ad.zumst.com^
@@ -99,6 +100,7 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+ilbe.com#?#a[class="subject"][href^="/view/"][-ext-contains="[광고]"]:upward(li.notice-line)
 tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
 tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
 zum.com#?#div[id="d_hub_native_ad"][data-outurl^="https://adr.zum.com/"]:upward(0)
@@ -134,6 +136,11 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||mediacategory.com/servlet/adbnMobileFloating
+||ilbe.com/oa/ad_*.js
+ilbe.com##li[id^="sponser_ad_"]
+ilbe.com##article.cutin-banner
+ilbe.com##div[id^="mob-main-banner-"]
 ||log.contentsbridge.com/agent.php
 ||iframe.inews24.com/ad/
 ||iframe.inews24.com/adm/
