@@ -134,6 +134,14 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||log.contentsbridge.com/agent.php
+||iframe.inews24.com/ad/
+||iframe.inews24.com/adm/
+||image2.inews24.com/www/
+inews24.com##container.ad-head
+inews24.com##iframe[src*="//iframe.inews24.com/ad/"]
+inews24.com##iframe[src*="//iframe.inews24.com/adm/"]
+inews24.com##img[src*="//image2.inews24.com/www/"]
 pressian.com##div.banner
 ||nad.newdaily.co.kr/RealMedia/ads/
 newdaily.co.kr##iframe[src*="//nad.newdaily.co.kr/RealMedia/ads/"]
