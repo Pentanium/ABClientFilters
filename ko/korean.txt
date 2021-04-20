@@ -137,6 +137,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+bikesell.co.kr##img[src^="/site/images/ban/"]
+||bikesell.co.kr/site/images/ban/
 ||mediacategory.com/servlet/adbnMobileFloating
 ||ilbe.com/oa/ad_*.js
 ilbe.com##li[id^="sponser_ad_"]
