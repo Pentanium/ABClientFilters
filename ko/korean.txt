@@ -142,6 +142,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+g-enews.com##div[id^="div-gpt-ad-"]
 ||img2.quasarzone.co.kr/banner/
 quasarzone.com##div[class$="-util-box flexsliderwrapper"]
 quasarzone.com##div[class$="-util-area flexsliderwrapper"]
