@@ -102,6 +102,7 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+gall.dcinside.com#?#tr[-ext-contains="AD"][class^="ub-content"]
 ilbe.com#?#a[class="subject"][href^="/view/"][-ext-contains="[광고]"]:upward(li.notice-line)
 tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
 tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
