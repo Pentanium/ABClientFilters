@@ -142,6 +142,9 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+ppss.kr##div[id^="ppss_wing_banner_"]
+ppss.kr##main#genesis-content > span
+ppss.kr##aside#genesis-sidebar-primary
 g-enews.com##div[id^="div-gpt-ad-"]
 ||img2.quasarzone.co.kr/banner/
 quasarzone.com##div[class$="-util-box flexsliderwrapper"]
