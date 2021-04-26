@@ -142,6 +142,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+inthenews.co.kr##div.com_ban
+||inthenews.co.kr/data/banner/
 ppss.kr##div[id^="ppss_wing_banner_"]
 ppss.kr##main#genesis-content > span
 ppss.kr##aside#genesis-sidebar-primary
