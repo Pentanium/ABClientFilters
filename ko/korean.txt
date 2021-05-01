@@ -1,6 +1,7 @@
 !
 ! #ZE:ADSERVER
-||kitweb.tadapi.info^
+||ad.linkprice.com^
+||tadapi.info^$third-party
 ||clickmon.co.kr^$third-party
 ||ad.tjtune.com^
 ||adplex.co.kr^$third-party
@@ -115,6 +116,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//ad.linkprice.com/"]
 ##iframe[src*="//kitweb.tadapi.info/"]
 ##iframe[src*="//adver4.clickmon.co.kr/"]
 ##iframe[src*="//adver7.clickmon.co.kr/"]
