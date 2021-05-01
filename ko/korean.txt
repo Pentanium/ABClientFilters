@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||kitweb.tadapi.info^
 ||clickmon.co.kr^$third-party
 ||ad.tjtune.com^
 ||adplex.co.kr^$third-party
@@ -114,6 +115,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//kitweb.tadapi.info/"]
 ##iframe[src*="//adver4.clickmon.co.kr/"]
 ##iframe[src*="//adver7.clickmon.co.kr/"]
 ##iframe[src*="//adver10.clickmon.co.kr/"]
@@ -144,7 +146,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ! #ZE:SPECIFIC
 forwarder.kr##div#hd_pop
 forwarder.kr##div[class^="side_ad"]
-forwarder.kr##div[class$="_banner"]
+ajunews.com,forwarder.kr##div[class$="_banner"]
 forwarder.kr##a[href^="https://www.forwarder.kr/content/ad"]
 forwarder.kr##div#fk_board_ad
 ||forwarder.kr/data/file/banner/
