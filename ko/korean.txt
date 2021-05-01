@@ -157,7 +157,7 @@ inthenews.co.kr##div.com_ban
 ppss.kr##div[id^="ppss_wing_banner_"]
 ppss.kr##main#genesis-content > span
 ppss.kr##aside#genesis-sidebar-primary
-g-enews.com##div[id^="div-gpt-ad-"]
+g-enews.com,etoday.co.kr##div[id^="div-gpt-ad-"]
 ||img2.quasarzone.co.kr/banner/
 quasarzone.com##div[class$="-util-box flexsliderwrapper"]
 quasarzone.com##div[class$="-util-area flexsliderwrapper"]
