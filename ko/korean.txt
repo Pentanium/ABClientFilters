@@ -91,7 +91,7 @@
 @@||dcinside.co.kr/viewimage.php$image,stealth
 !
 ! #ZE:ANTIADBLOCK
-bikesell.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/google_ad_client/')
+tistory.com,bikesell.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/google_ad_client/')
 doctorson0309.tistory.com##div#adblocktestdiv
 tistory.com,ekro.xyz#%#//scriptlet('abort-current-inline-script', 'adBlockDetected')
 blind513.tistory.com##div#fab-enabled
