@@ -146,6 +146,10 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+akomnews.com##iframe[src*="//www.akomnews.com/theme/wide01/include/adsense.php?"]
+akomnews.com##img[src*="//www.akomnews.com/data/banner/"]
+||akomnews.com/data/banner/
+||akomnews.com/theme/wide01/include/adsense.php
 forwarder.kr##div#hd_pop
 forwarder.kr##div[class^="side_ad"]
 ajunews.com,forwarder.kr##div[class$="_banner"]
