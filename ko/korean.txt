@@ -105,7 +105,7 @@ blind513.tistory.com##div#fab-enabled
 /fuckadblock.min.js
 /blockadblock.js
 /blockadblock.min.js
-blog.krcesdev.com,shana.pe.kr,tistory.com#%#//scriptlet('prevent-bab')
+blog.krcesdev.com,shana.pe.kr,tistory.com,1412.rest#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
 cherryyo.com#?#ins.adsbygoogle:upward(div.mdl-cell)
