@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||marketingking.co.kr^$third-party
 ||deepdive.zum.com^$third-party
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
@@ -153,6 +154,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||fntoday.co.kr/bannerpop/
 edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##div.netizen_interest
 edaily.co.kr##div.weekend_news
@@ -235,7 +237,7 @@ www.nate.com##div.area_shopping_today
 www.nate.com#$#div#header { height: 100px; }
 news.zum.com##div.right_shopping_box
 ||set1-shoplayer.zumst.com/resources/images/shopping_box_
-newstown.co.kr,womennews.co.kr,sisajournal.com,zum.com,safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr,docdocdoc.co.kr,edaily.co.kr##div[class^="banner_"]
+fntoday.co.kr,newstown.co.kr,womennews.co.kr,sisajournal.com,zum.com,safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr,docdocdoc.co.kr,edaily.co.kr##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
 zum.com##div.shopping_box.d_shopping_box
