@@ -108,6 +108,7 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com,1412.rest#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+news.imaeil.com#?#iframe[src*="//media.adpnut.com/"]:upward(div.article.bb)
 cherryyo.com#?#ins.adsbygoogle:upward(div.mdl-cell)
 cherryyo.com#?#iframe[src*="//minishop.linkprice.com/"]:upward(td[style^="width:"])
 gall.dcinside.com#?#tr[-ext-contains="AD"][class^="ub-content"]
@@ -154,6 +155,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||news.imaeil.com/img/banner/
 m.naver.com##div#HOME_AD
 ||fntoday.co.kr/bannerpop/
 edaily.co.kr##div[class^="boxbanner_"]
@@ -201,7 +203,7 @@ inews24.com##container.ad-head
 inews24.com##iframe[src*="//iframe.inews24.com/ad/"]
 inews24.com##iframe[src*="//iframe.inews24.com/adm/"]
 inews24.com##img[src*="//image2.inews24.com/www/"]
-pressian.com##div.banner
+news.imaeil.com,pressian.com##div.banner
 ||nad.newdaily.co.kr/RealMedia/ads/
 newdaily.co.kr##iframe[src*="//nad.newdaily.co.kr/RealMedia/ads/"]
 ||funbe.app/images/$image
