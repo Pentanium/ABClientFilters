@@ -91,6 +91,7 @@
 ||castbox.shopping.naver.com^
 !
 ! #ZE:ALLOWLIST
+@@||ac.namu.la^$domain=arca.live,media,image,stealth
 @@||cloudfront.net^$domain=postype.com,stealth,image
 @@||pstatic.net^$image,stealth
 @@||naver.net/wcslog.js
