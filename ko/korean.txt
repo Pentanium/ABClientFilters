@@ -127,6 +127,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
 ##iframe[src*="//adbiz2.co.kr/"]
 ##iframe[src*="//deepdive.zum.com/widget/"]
 ##iframe[src*="//minishop.linkprice.com/"]
@@ -160,6 +161,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||vod.shoppingcall.me/ad_shoppingCallme.php
+||scallme.hgodo.com/vod/bannern/
 m.etoday.co.kr##div#contents_body > div[style^="float:right;width:"]
 m.nongmin.com##div.banner_zone
 m.nongmin.com##img[src^="/m/images/main/middle_banner_"]
