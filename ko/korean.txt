@@ -158,6 +158,9 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.nongmin.com##div.banner_zone
+m.nongmin.com##img[src^="/m/images/main/middle_banner_"]
+||m.nongmin.com/m/images/main/headline_banner_
 ||newsian.co.kr/bannerpop/
 ||idsn.co.kr/bannerpop/
 ||cdn.ggilbo.com/bannerpop/
