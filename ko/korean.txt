@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||ad.idnad.co.kr^$third-party
 ||adbiz2.co.kr^
 ||marketingking.co.kr^$third-party
 ||deepdive.zum.com^$third-party
@@ -110,6 +111,7 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com,1412.rest#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+m.etoday.co.kr#?#div[id^="div-gpt-ad-"]:upward(section[style^="padding-top:"])
 news.imaeil.com#?#iframe[src*="//media.adpnut.com/"]:upward(div.article.bb)
 cherryyo.com#?#ins.adsbygoogle:upward(div.mdl-cell)
 cherryyo.com#?#iframe[src*="//minishop.linkprice.com/"]:upward(td[style^="width:"])
@@ -158,6 +160,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.etoday.co.kr##div#contents_body > div[style^="float:right;width:"]
 m.nongmin.com##div.banner_zone
 m.nongmin.com##img[src^="/m/images/main/middle_banner_"]
 ||m.nongmin.com/m/images/main/headline_banner_
