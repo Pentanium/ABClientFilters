@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||adbiz2.co.kr^
 ||marketingking.co.kr^$third-party
 ||deepdive.zum.com^$third-party
 ||minishop.linkprice.com^
@@ -124,6 +125,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//adbiz2.co.kr/"]
 ##iframe[src*="//deepdive.zum.com/widget/"]
 ##iframe[src*="//minishop.linkprice.com/"]
 ##iframe[src*="//ad.linkprice.com/"]
