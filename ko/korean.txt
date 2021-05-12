@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||side.mythiell.com^
 ||adv.imadrep.co.kr^
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
