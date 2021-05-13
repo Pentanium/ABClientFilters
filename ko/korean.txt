@@ -165,6 +165,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+tgd.kr##strong.notice-badge
+tgd.kr##div#header-top-notice > a[target="_blank"]
 m.news1.kr##div.das_article15_wrap
 ||m.news1.kr/template/ads/
 ||mediacategory.com/servlet/adNative
