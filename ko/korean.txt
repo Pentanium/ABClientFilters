@@ -166,6 +166,7 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.dcinside.com##li[class="comment"]:not(div#comment)
 m.nocutnews.co.kr##div#divContent > div[style^="width:"]
 m.nocutnews.co.kr##iframe[src="/ad/adnca.html"]
 m.nocutnews.co.kr##div#pnlContainer > div.ct1 > div.con_b
