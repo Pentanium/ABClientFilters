@@ -167,6 +167,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||i.imgur.com^$domain=marumaru.cloud
+marumaru.cloud##img[src^="https://i.imgur.com/"]
 thisisgame.com##iframe[src*="//ad2.thisisgame.com/"]
 thisisgame.com##div#divMsnAD
 m.dcinside.com##li[class="comment"]:not(div#comment)
