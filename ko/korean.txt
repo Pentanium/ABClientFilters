@@ -1,5 +1,7 @@
 !
 ! #ZE:ADSERVER
+||ad.aceplanet.co.kr^
+||ad.doyouad.com^
 ||ad.ajitad.co.kr^
 ||side.mythiell.com^
 ||adv.imadrep.co.kr^
@@ -136,6 +138,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//ad.aceplanet.co.kr/"]
 ##iframe[src*="//ad.ajitad.co.kr/"]
 ##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
 ##iframe[src*="//adbiz2.co.kr/"]
@@ -171,7 +174,10 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
-tf.co.kr##iframe[src^="/public/ad/"]
+||tf.co.kr/public/ad/
+||news.tf.co.kr/ad/
+news.tf.co.kr##iframe[src*="//news.tf.co.kr/ad/call?"]
+tf.co.kr##iframe[src*="/public/ad/"]
 tf.co.kr##iframe[id^="ADFRAME_"]
 ||tf.co.kr/public/layout/2015/top_menu_bar_*.php
 tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
