@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||ad.ajitad.co.kr^
 ||side.mythiell.com^
 ||adv.imadrep.co.kr^
 ||simg.imadrep.co.kr^
@@ -61,6 +62,8 @@
 ||pagead2.googlesyndication.com^
 !
 ! #ZE:FIRSTPARTY
+||ad.tf.co.kr^
+||nad.tf.co.kr^
 ||ad2.thisisgame.com^
 ||ad.adjw.co.kr^
 ||ad.ilbe.com^
@@ -133,6 +136,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#li[-ext-contains="#제휴사공지"]
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//ad.ajitad.co.kr/"]
 ##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
 ##iframe[src*="//adbiz2.co.kr/"]
 ##iframe[src*="//deepdive.zum.com/widget/"]
@@ -167,6 +171,11 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+tf.co.kr##iframe[src^="/public/ad/"]
+tf.co.kr##iframe[id^="ADFRAME_"]
+||tf.co.kr/public/layout/2015/top_menu_bar_*.php
+tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
+tf.co.kr##iframe[src*="//www.tf.co.kr/public/layout/2015/top_menu_bar_"][title="배너 영역"]
 ||i.imgur.com^$domain=marumaru.cloud
 marumaru.cloud##img[src^="https://i.imgur.com/"]
 thisisgame.com##iframe[src*="//ad2.thisisgame.com/"]
