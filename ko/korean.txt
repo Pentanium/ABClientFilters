@@ -174,6 +174,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+kukinews.com##img[src^="/data/kuk/banner/"]
+||kukinews.com/data/kuk/banner/
 ||tf.co.kr/public/ad/
 ||news.tf.co.kr/ad/
 news.tf.co.kr##iframe[src*="//news.tf.co.kr/ad/call?"]
