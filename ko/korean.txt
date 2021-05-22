@@ -174,6 +174,8 @@ orbi.kr#?#li[-ext-contains="#제휴사공지"]
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+entermedia.co.kr##img[src^="/bannerpop/"]
+||entermedia.co.kr/bannerpop/
 kukinews.com##img[src^="/data/kuk/banner/"]
 ||kukinews.com/data/kuk/banner/
 ||tf.co.kr/public/ad/
