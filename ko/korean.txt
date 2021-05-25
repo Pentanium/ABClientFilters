@@ -193,7 +193,7 @@ tf.co.kr##iframe[src*="/public/ad/"]
 tf.co.kr##iframe[id^="ADFRAME_"]
 ||tf.co.kr/public/layout/2015/top_menu_bar_*.php
 tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
-tf.co.kr##iframe[src*="//www.tf.co.kr/public/layout/2015/top_menu_bar_"][title="배너 영역"]
+tf.co.kr##iframe[src*="//www.tf.co.kr/public/layout/"][src*="/top_menu_bar_"][title="배너 영역"]
 ||i.imgur.com^$domain=marumaru.cloud
 marumaru.cloud##img[src^="https://i.imgur.com/"]
 thisisgame.com##iframe[src*="//ad2.thisisgame.com/"]
