@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||ad.phaserep.com^
 ||ad.aceplanet.co.kr^
 ||ad.doyouad.com^
 ||ad.ajitad.co.kr^
@@ -175,6 +176,11 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+m.tf.co.kr##div#mobitree
+m.tf.co.kr##span#rectingle_spanTag_ad
+m.tf.co.kr##ul.twoLineAd
+m.tf.co.kr##div.swiper-topbanner
+||m.tf.co.kr/public/*/ad/
 ddengle.com##div#ad-sidebar
 entermedia.co.kr##img[src^="/bannerpop/"]
 ||entermedia.co.kr/bannerpop/
