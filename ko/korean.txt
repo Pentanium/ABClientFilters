@@ -54,8 +54,7 @@
 ||ad.about.co.kr^
 ||tpc.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
-||adservice.google.co.jp^
-||adservice.google.co.kr^
+||adservice.google.co.*
 ||adservice.google.com^
 ||ads-partners.coupang.com^
 ||naverwebtoon-phinf.pstatic.net^
