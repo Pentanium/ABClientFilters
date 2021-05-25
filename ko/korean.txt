@@ -136,7 +136,7 @@ quasarzone.com#?#a[href^="javascript:clickBanner"]:upward(div[class$="flexslider
 2cpu.co.kr#?#tr[-ext-contains="광고"]
 gigglehd.com#?#div[class^="xe-widget-wrapper"][style^="BACKGROUND-IMAGE: none; BORDER-BOTTOM:"]:upward(div.xe-widget-wrapper)
 m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
-orbi.kr#?#li[-ext-contains="#제휴사공지"]
+orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
 ##iframe[src*="//ad.aceplanet.co.kr/"]
