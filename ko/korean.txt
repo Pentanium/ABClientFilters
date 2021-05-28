@@ -121,6 +121,7 @@ blind513.tistory.com##div#fab-enabled
 blog.krcesdev.com,shana.pe.kr,tistory.com,1412.rest#%#//scriptlet('prevent-bab')
 !
 ! #ZE:EXTENDED_CSS
+tgd.kr#?#strong[-ext-contains="AD"]:upward(div[id^="article-list-row-"])
 ddengle.com#?#span[class="ad"][-ext-contains="AD"]:upward(tr.notice)
 m.nocutnews.co.kr#?#iframe[src*="//white.contentsfeed.com/RealMedia/ads/"][id="ifrEffect2"]:upward(div.section.con_b)
 m.etoday.co.kr#?#div[id^="div-gpt-ad-"]:upward(section[style^="padding-top:"])
