@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||mrep.kr^$third-party
 ||widerplanet.com^$third-party
 ||fastview.co.kr^
 ||ad.phaserep.com^
@@ -142,6 +143,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//img.mrep.kr/"]
 ##ins.fastview-ad
 ##iframe[src*="//ad.aceplanet.co.kr/"]
 ##iframe[src*="//ad.ajitad.co.kr/"]
@@ -179,6 +181,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||img.tf.co.kr/ss/20
 ||sutv7.com/data/apms/background/$image
 sutv7.com##div[style^="background-image: url(\'https://sutv7.com/data/apms/background/"]
 m.tf.co.kr##div#mobitree
@@ -423,7 +426,7 @@ donga.com##div[id$="_wingad"]
 donga.com##div.txt_ban
 ||image.donga.com/adma/
 nocutnews.co.kr##div[id^="dcamp_ad_"]
-etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr,asiae.co.kr,m.pann.nate.com,edaily.co.kr##div[class^="ad_"]
+m.tf.co.kr,etnews.com,nocutnews.co.kr,comic.naver.com,news.joins.com,hankyung.com,humoruniv.com,news1.kr,khan.co.kr,asiae.co.kr,m.pann.nate.com,edaily.co.kr##div[class^="ad_"]
 news.joins.com,nocutnews.co.kr,hankyung.com,dt.co.kr##div[id^="targetpushAd_"]
 nocutnews.co.kr##a[href^="https://white.contentsfeed.com/RealMedia/ads/"]
 lol.ps##div.ad-fullbg
