@@ -181,7 +181,6 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
-||img.tf.co.kr/ss/20
 ||sutv7.com/data/apms/background/$image
 sutv7.com##div[style^="background-image: url(\'https://sutv7.com/data/apms/background/"]
 m.tf.co.kr##div#mobitree
