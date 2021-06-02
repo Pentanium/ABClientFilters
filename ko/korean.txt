@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||ads.priel.co.kr^
 ||mrep.kr^$third-party
 ||widerplanet.com^$third-party
 ||fastview.co.kr^
@@ -143,6 +144,8 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//ads.priel.co.kr/"]
+##img[src*="//ads.priel.co.kr/"]
 ##iframe[src*="//img.mrep.kr/"]
 ##ins.fastview-ad
 ##iframe[src*="//ad.aceplanet.co.kr/"]
@@ -181,6 +184,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+asked.kr##iframe[src="//asked.kr/coupang.php"]
 datanet.co.kr##img[src*="datanet.co.kr/bannerpop/"]
 ||datanet.co.kr/bannerpop/
 ||sutv7.com/data/apms/background/$image
