@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||keywordsconnect.com^$third-party
 ||ads.priel.co.kr^
 ||mrep.kr^$third-party
 ||widerplanet.com^$third-party
@@ -184,6 +185,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||cdn.econovill.com/bannerpop/
 dmitory.com##div[class$="_google_ad"]
 asked.kr##iframe[src="//asked.kr/coupang.php"]
 datanet.co.kr##img[src*="datanet.co.kr/bannerpop/"]
@@ -322,7 +324,7 @@ www.nate.com##div.area_shopping_today
 www.nate.com#$#div#header { height: 100px; }
 news.zum.com##div.right_shopping_box
 ||set1-shoplayer.zumst.com/resources/images/shopping_box_
-sisafocus.co.kr,newsian.co.kr,idsn.co.kr,ggilbo.com,andongdaily.com,tiptipnews.co.kr,fntoday.co.kr,newstown.co.kr,womennews.co.kr,sisajournal.com,zum.com,safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr,docdocdoc.co.kr,edaily.co.kr##div[class^="banner_"]
+econovill.com,sisafocus.co.kr,newsian.co.kr,idsn.co.kr,ggilbo.com,andongdaily.com,tiptipnews.co.kr,fntoday.co.kr,newstown.co.kr,womennews.co.kr,sisajournal.com,zum.com,safetynews.co.kr,koreabiomed.com,mindpost.or.kr,energydaily.co.kr,docdocdoc.co.kr,edaily.co.kr##div[class^="banner_"]
 zum.com##div[id^="banner_"]
 zum.com##a[class$="d_photonewslink"][href^="https://adr.zum.com/"]
 zum.com##div.shopping_box.d_shopping_box
