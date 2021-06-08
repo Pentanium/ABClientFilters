@@ -145,6 +145,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##img[src^="/bannerpop/"]
 ##iframe[src*="//ads.priel.co.kr/"]
 ##img[src*="//ads.priel.co.kr/"]
 ##iframe[src*="//img.mrep.kr/"]
@@ -185,6 +186,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+todaykorea.co.kr##div[id^="rollBanner-"]
+||todaykorea.co.kr/bannerpop/
 m.humoruniv.com##div#comment > ul > table[style^="height:"]
 m.humoruniv.com##iframe[src^="/banner/"]
 m.humoruniv.com##a[href*="//m.choomarket.com/"]
@@ -203,7 +206,6 @@ m.tf.co.kr##ul.twoLineAd
 m.tf.co.kr##div.swiper-topbanner
 ||m.tf.co.kr/public/*/ad/
 ddengle.com##div#ad-sidebar
-entermedia.co.kr,datanet.co.kr##img[src^="/bannerpop/"]
 ||entermedia.co.kr/bannerpop/
 kukinews.com##img[src^="/data/kuk/banner/"]
 ||kukinews.com/data/kuk/banner/
