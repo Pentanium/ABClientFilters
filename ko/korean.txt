@@ -187,6 +187,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+ohli24.net##div.col-xs-6.col-sm-3.exo2
 todaykorea.co.kr##div[id^="rollBanner-"]
 ||todaykorea.co.kr/bannerpop/
 m.humoruniv.com##div#comment > ul > table[style^="height:"]
