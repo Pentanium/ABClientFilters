@@ -108,6 +108,7 @@
 ||castbox.shopping.naver.com^
 !
 ! #ZE:ALLOWLIST
+@@||blog.naverblogwidget.com/ExternalWidgetRender.naver$stealth
 @@||ac.namu.la^$domain=arca.live,media,image,stealth
 @@||cloudfront.net^$domain=postype.com,stealth,image
 @@||pstatic.net^$image,stealth
