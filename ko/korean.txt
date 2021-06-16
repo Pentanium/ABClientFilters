@@ -188,6 +188,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+search.daum.net##div#premiumLinkColl
 comic.naver.com##div.preview_store
 ||image-comic.pstatic.net/webtoon/*/contents_banner_
 bookbook.today##div.col-10.col-md-12.col-sm-12.col-xs-12
