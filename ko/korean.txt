@@ -189,6 +189,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+jjang0u.com##iframe[src^="/banner_wrap?"]
+||jjang0u.com/banner_wrap*.js
 search.daum.net##div#premiumLinkColl
 comic.naver.com##div.preview_store
 ||image-comic.pstatic.net/webtoon/*/contents_banner_
