@@ -108,6 +108,7 @@
 ||castbox.shopping.naver.com^
 !
 ! #ZE:ALLOWLIST
+@@||inefile.xyz^$domain=moeni.org,stealth
 @@||blog.naverblogwidget.com/ExternalWidgetRender.naver$stealth
 @@||ac.namu.la^$domain=arca.live,media,image,stealth
 @@||cloudfront.net^$domain=postype.com,stealth,image
@@ -191,6 +192,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+moeni.org##img[src^="/img/sponsor/"]
+||moeni.org/img/sponsor/
 jjang0u.com##iframe[src^="/banner_wrap?"]
 ||jjang0u.com/banner_wrap*.js
 search.daum.net##div#premiumLinkColl
