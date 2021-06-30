@@ -192,6 +192,14 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
+mule.co.kr##div.section-leftmiddle-bottommiddle.cf
+mule.co.kr##div[class^="section-lefttop-right ad"]
+mule.co.kr#$#.section-lefttop-center { width: 100%!important; }
+mule.co.kr##div.section-lefttop-left
+mule.co.kr#$#.section-leftmiddle-topmiddle { width: 100%!important; }
+mule.co.kr##div[class$="-ad"]
+||cdn.mule.co.kr/data/original/
 www.naver.com##div#NM_MID_BANNER
 moeni.org##img[src^="/img/sponsor/"]
 ||moeni.org/img/sponsor/
