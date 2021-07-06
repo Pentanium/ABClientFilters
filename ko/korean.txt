@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||adbiz3.co.kr^
 ||keywordsconnect.com^$third-party
 ||ads.priel.co.kr^
 ||mrep.kr^$third-party
@@ -150,6 +151,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//adbiz3.co.kr/"]
 ##iframe[src*="//coupa.ng/"]
 ##img[src^="/bannerpop/"]
 ##iframe[src*="//ads.priel.co.kr/"]
@@ -192,6 +194,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+ytn.co.kr##iframe[src^="/inc_banner/AdServerChange.php"]
+||ytn.co.kr/inc_banner/AdServerChange.php
 search.daum.net##div.adLinkColl
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js
 mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
