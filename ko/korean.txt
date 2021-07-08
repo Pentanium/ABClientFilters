@@ -118,7 +118,7 @@
 @@||dcinside.co.kr/viewimage.php$image,stealth
 !
 ! #ZE:ANTIADBLOCK
-||||newtoki*.com/img/adblock.png
+||newtoki*.com/img/adblock.png
 jootc.com#%#//scriptlet("abort-current-inline-script", "String.prototype.charCodeAt", "ai_adb")
 ||cdnkr*.oio.bz/ext/dh-anti-adblocker/
 tistory.com,bikesell.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/google_ad_client/')
