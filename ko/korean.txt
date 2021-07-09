@@ -195,6 +195,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+etoland.co.kr##div.eto_banner
+etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.lazy-hidden)
 ||newtoki*.com/tokinbtoki/$image
 ||manatoki*.net/tokinbtoki/$image
 newtoki95.com,manatoki95.net##div#id_mbv
