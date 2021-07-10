@@ -195,6 +195,10 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+||dobaklife1.com/data/apms/
+dobaklife1.com##div[class^="col-sm-"]
+dobaklife1.com##div.hd_pop
+dobaklife1.com##img[src^="/data/apms/"]
 etoland.co.kr##div.eto_banner
 etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.lazy-hidden)
 ||newtoki*.com/tokinbtoki/$image
