@@ -195,6 +195,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+noonnu.cc##div.group.min-h-auto
 ||dobaklife1.com/data/apms/
 dobaklife1.com##div[class^="col-sm-"]
 dobaklife1.com##div.hd_pop
