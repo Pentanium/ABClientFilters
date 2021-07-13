@@ -195,11 +195,13 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.adsbygoogle
 ##iframe[src^="https://ads-partners.coupang.com/"]
 ##ins.kakao_ad_area
+! 
+! #ZE:GENERAL_URL
+/bannerpop/uploads/*$image,script
 !
 ! #ZE:SPECIFIC
 principlesofknowledge.kr##a[href^="https://coupa.ng/"]
 ||img.knowledgepower.co.kr/*/cpcbanner/
-||cdn.bosa.co.kr/bannerpop/
 noonnu.cc##div.group.min-h-auto
 ||dobaklife1.com/data/apms/
 dobaklife1.com##div[class^="col-sm-"]
@@ -236,17 +238,14 @@ bookbook.today##div.col-10.col-md-12.col-sm-12.col-xs-12
 bookbook.today##div.col-10.col-md-6.col-sm-4.col-xs-12
 ohli24.net##div.col-xs-6.col-sm-3.exo2
 todaykorea.co.kr##div[id^="rollBanner-"]
-||todaykorea.co.kr/bannerpop/
 m.humoruniv.com##div#comment > ul > table[style^="height:"]
 m.humoruniv.com##iframe[src^="/banner/"]
 m.humoruniv.com##a[href*="//m.choomarket.com/"]
 ||m.humoruniv.com/banner/pnut_*.html
 m.humoruniv.com##div[id^="naver_adpost_"]
-||cdn.econovill.com/bannerpop/
 dmitory.com##div[class$="_google_ad"]
 asked.kr##iframe[src="//asked.kr/coupang.php"]
 datanet.co.kr##img[src*="datanet.co.kr/bannerpop/"]
-||datanet.co.kr/bannerpop/
 ||sutv7.com/data/apms/background/$image
 sutv7.com##div[style^="background-image: url(\'https://sutv7.com/data/apms/background/"]
 m.tf.co.kr##div#mobitree
@@ -255,7 +254,6 @@ m.tf.co.kr##ul.twoLineAd
 m.tf.co.kr##div.swiper-topbanner
 ||m.tf.co.kr/public/*/ad/
 ddengle.com##div#ad-sidebar
-||entermedia.co.kr/bannerpop/
 kukinews.com##img[src^="/data/kuk/banner/"]
 ||kukinews.com/data/kuk/banner/
 ||tf.co.kr/public/ad/
@@ -282,28 +280,20 @@ tgd.kr##div#header-top-notice > a[target="_blank"]
 m.news1.kr##div.das_article15_wrap
 ||m.news1.kr/template/ads/
 ||mediacategory.com/servlet/adNative
-||cdn.sisafocus.co.kr/bannerpop/
 ||vod.shoppingcall.me/ad_shoppingCallme.php
 ||scallme.hgodo.com/vod/bannern/
 m.etoday.co.kr##div#contents_body > div[style^="float:right;width:"]
 m.nongmin.com##div.banner_zone
 m.nongmin.com##img[src^="/m/images/main/middle_banner_"]
 ||m.nongmin.com/m/images/main/headline_banner_
-||newsian.co.kr/bannerpop/
-||idsn.co.kr/bannerpop/
-||cdn.ggilbo.com/bannerpop/
 m.health.chosun.com##div#searchclinic_btn2
-||andongdaily.com/bannerpop/
-||tiptipnews.co.kr/bannerpop/
 ||news.imaeil.com/img/banner/
 m.naver.com##div#HOME_AD
-||fntoday.co.kr/bannerpop/
 edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##div.netizen_interest
 edaily.co.kr##div.weekend_news
 edaily.co.kr##div.youlike_news
 edaily.co.kr##div.manyview_info
-||docdocdoc.co.kr/bannerpop/
 nongmin.com##div.google-vertical
 nongmin.com##div[class*="banner-wrap"]
 nongmin.com##div#viewAd
@@ -324,7 +314,6 @@ g-enews.com,etoday.co.kr##div[id^="div-gpt-ad-"]
 ||img2.quasarzone.co.kr/banner/
 quasarzone.com##div[class$="-util-box flexsliderwrapper"]
 quasarzone.com##div[class$="-util-area flexsliderwrapper"]
-||newstown.co.kr/bannerpop/
 bikesell.co.kr##img[src^="/site/images/ban/"]
 ||bikesell.co.kr/site/images/ban/
 ||mediacategory.com/servlet/adbnMobileFloating
@@ -347,22 +336,17 @@ newdaily.co.kr##iframe[src*="//nad.newdaily.co.kr/RealMedia/ads/"]
 ||funbe.app/bann/
 funbe.app##div.col-md-12.mobile-banner
 funbe.app##img[id^="banner_"]
-||cdn.safetynews.co.kr/bannerpop/
-||energydaily.co.kr/bannerpop/
-||mindpost.or.kr/bannerpop/
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/2012_ad_rolling.htm"]
 ohmynews.com##div[class^="new_ad"]
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##ul.ad_area
 ohmynews.com##div#dvCenterAd
 fmkorea.com##div.adpost
-||koreabiomed.com/bannerpop/
 magazine.hankyung.com##div.aside-module.banner-aside
 magazine.hankyung.com##div.aside-module.ad-aside
 ||static.hankyung.com/img/magazine/*/banners/
 jmagazine.joins.com##div.ra_img_ban
 ||jmagazine.joins.com/data/banner/
-||womennews.co.kr/bannerpop/
 m.pann.nate.com##div#bannerBtm
 m.pann.nate.com##iframe[id^="ad_"]
 estate.nate.com##div.ad_con.s01
@@ -389,7 +373,6 @@ zum.com##div.box_wing_banner
 zum.com##div#wrap_ad_main
 zum.com#$#div.box_today_wrap.d_box_today_issue { top: -330px; }
 ||shop.zumst.com/upload/shoppingbox/
-||sisajournal.com/bannerpop/
 khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 khan.co.kr##a[href*="//adv.khan.co.kr/"]
 khan.co.kr,search.zum.com##div[id^="ad"]
