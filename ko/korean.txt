@@ -152,6 +152,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##a[href*="//click.soonwe.com/"]
 ##iframe[src*="//adbiz3.co.kr/"]
 ##iframe[src*="//coupa.ng/"]
 ##img[src^="/bannerpop/"]
@@ -195,6 +196,8 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ##ins.kakao_ad_area
 !
 ! #ZE:SPECIFIC
+principlesofknowledge.kr##a[href^="https://coupa.ng/"]
+||img.knowledgepower.co.kr/*/cpcbanner/
 bosa.co.kr##div.banner_box
 ||cdn.bosa.co.kr/bannerpop/
 noonnu.cc##div.group.min-h-auto
