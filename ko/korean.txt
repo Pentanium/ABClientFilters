@@ -199,7 +199,6 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ! #ZE:SPECIFIC
 principlesofknowledge.kr##a[href^="https://coupa.ng/"]
 ||img.knowledgepower.co.kr/*/cpcbanner/
-bosa.co.kr##div.banner_box
 ||cdn.bosa.co.kr/bannerpop/
 noonnu.cc##div.group.min-h-auto
 ||dobaklife1.com/data/apms/
