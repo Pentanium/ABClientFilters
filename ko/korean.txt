@@ -578,7 +578,7 @@ www.naver.com###veta_branding
 www.naver.com###veta_top
 www.naver.com###shopcast
 ||veta.naver.com/fxshow
-namu.wiki##div#tchikafbb03ac6
+namu.wiki##div#tchikacf8fe4ad
 m.ruliweb.com##div[class*="ad_wrapper"]
 m.ruliweb.com##div[id^="mo_ad_"]
 arca.live,ruliweb.com##.ad
