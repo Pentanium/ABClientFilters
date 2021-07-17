@@ -1,5 +1,6 @@
 !
 ! #ZE:ADSERVER
+||adsrv-up.mcrony.com^
 ||adbiz3.co.kr^
 ||keywordsconnect.com^$third-party
 ||ads.priel.co.kr^
@@ -152,6 +153,7 @@ m.dcinside.com#?#h3[-ext-contains="파워링크 광고"]:upward(1)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
 !
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//adsrv-up.mcrony.com/"]
 ##div.banner_box
 ##a[href*="//click.soonwe.com/"]
 ##iframe[src*="//adbiz3.co.kr/"]
@@ -200,6 +202,7 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 /bannerpop/uploads/*$image,script
 !
 ! #ZE:SPECIFIC
+||munhwa.com/www/banner/
 theguru.co.kr##div#news_body_area > div[style^="clear:"]
 theguru.co.kr##div.com_ban
 ||theguru.co.kr/data/banner/
