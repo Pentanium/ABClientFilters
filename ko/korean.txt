@@ -275,7 +275,7 @@ marumaru.cloud##img[src^="https://i.imgur.com/"]
 thisisgame.com##iframe[src*="//ad2.thisisgame.com/"]
 thisisgame.com##div#divMsnAD
 m.dcinside.com##li[class="comment"]:not(div#comment)
-m.nocutnews.co.kr##div#divContent > div[style^="width:"]
+m.nocutnews.co.kr##div#pnlContent > div[style^="width:"]
 m.nocutnews.co.kr##iframe[src="/ad/adnca.html"]
 m.nocutnews.co.kr##div#pnlContainer > div.ct1 > div.con_b
 ||m.nocutnews.co.kr/ad/
