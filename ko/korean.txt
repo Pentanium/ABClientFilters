@@ -200,6 +200,9 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 /bannerpop/uploads/*$image,script
 !
 ! #ZE:SPECIFIC
+theguru.co.kr##div#news_body_area > div[style^="clear:"]
+theguru.co.kr##div.com_ban
+||theguru.co.kr/data/banner/
 principlesofknowledge.kr##a[href^="https://coupa.ng/"]
 ||img.knowledgepower.co.kr/*/cpcbanner/
 noonnu.cc##div.group.min-h-auto
